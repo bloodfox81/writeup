@@ -282,7 +282,7 @@
   - 但具有 `cap_setuid+ep` 的二进制文件可以执行此操作
   - 即使文件所有者是 root，执行者 (kiba) 也能获得该 capability
 
-  ![](./ChatGPT Image 2026年6月4日 11_19_48.png)
+  ![](./ChatGPT-Image-2026-06-04-11-19-48.png)
 
   ---
 
